@@ -1,0 +1,2 @@
+# adventure
+Dynamically created maze
